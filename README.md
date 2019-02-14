@@ -1,7 +1,13 @@
 # ember-gc-test
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Testing glimmer components in an Ember app.
+
+Using the following addons:
+
+- @ember/render-modifiers
+- @glimmer/component
+- ember-decorators (till decorators are in Ember)
+- ember-on-modifier
 
 ## Prerequisites
 
