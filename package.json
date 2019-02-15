@@ -26,6 +26,7 @@
     "babel-eslint": "^8.2.6",
     "broccoli-asset-rev": "^2.7.0",
     "ember-ajax": "^3.1.0",
+    "ember-auto-import": "^1.2.19",
     "ember-cli": "~3.7.1",
     "ember-cli-app-version": "^3.2.0",
     "ember-cli-babel": "^7.1.2",
@@ -48,6 +49,12 @@
     "ember-source": "~3.7.0",
     "eslint-plugin-ember": "^5.2.0",
     "loader.js": "^4.7.0",
+    "prosemirror-example-setup": "^1.0.1",
+    "prosemirror-model": "^1.7.0",
+    "prosemirror-schema-basic": "^1.0.0",
+    "prosemirror-schema-list": "^1.0.2",
+    "prosemirror-state": "^1.2.2",
+    "prosemirror-view": "^1.7.1",
     "qunit-dom": "^0.8.0"
   },
   "engines": {

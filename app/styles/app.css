@@ -1,3 +1,7 @@
 body.test {
   background-color: bisque;
 }
+
+.ProseMirror-example-setup-style {
+  height: calc(100vh - 60px);
+}
